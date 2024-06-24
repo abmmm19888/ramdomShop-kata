@@ -39,7 +39,6 @@ El proyecto está estructurado en las siguientes partes principales:
 4.  Pruebas Unitarias:
    - Se han desarrollado pruebas unitarias exhaustivas en `ShoppingCartTest` para validar el cálculo de precios para diferentes tipos de productos y escenarios.
    - Cada método de cálculo de precio tiene pruebas específicas que cubren casos normales y límites, asegurando que el sistema funcione correctamente bajo diferentes condiciones.
+![Captura de pantalla 2024-06-23 212909](https://github.com/abmmm19888/ramdomShop-kata/assets/169648291/b099533f-2fb0-4d7f-94fe-014a63893ce8)
 
-
-![Captura de pantalla 2024-06-23 212909](https://github.com/abmmm19888/ramdomShop-kata/assets/169648291/a3481c83-b077-4e22-b14a-c166f60e6eea)
 
