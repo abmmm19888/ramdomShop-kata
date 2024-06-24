@@ -11,7 +11,8 @@ public class Product {
     private final String name;
     private final BigDecimal sellPrice;
 
-    public Product(Integer numberOfLegs, Integer age, boolean isStinky, String color, BigDecimal basePrice, String name, BigDecimal sellPrice) {
+    public Product(Integer numberOfLegs, Integer age, boolean isStinky, String color, BigDecimal basePrice, String name,
+            BigDecimal sellPrice) {
         this.numberOfLegs = numberOfLegs;
         this.age = age;
         this.isStinky = isStinky;
