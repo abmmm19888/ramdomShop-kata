@@ -4,7 +4,7 @@ Random Shop
 
  Objetivos de la Kata
 
-1. Desarrollar lógica de programación y refactorización**: Implementar y mejorar la lógica de cálculo de precios para diferentes tipos de productos, asegurando un código limpio y mantenible.
+1. Desarrollar lógica de programación y refactorización: Implementar y mejorar la lógica de cálculo de precios para diferentes tipos de productos, asegurando un código limpio y mantenible.
    
 2. Comprensión y aplicación de Tests**: Desarrollar pruebas unitarias exhaustivas para validar el comportamiento correcto del sistema bajo diferentes escenarios y condiciones.
 
